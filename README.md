@@ -29,7 +29,7 @@
 ### Решение
 (Конфигурационный файл nginx в conf.d)[https://github.com/Svalker1989/Clusterization-Load_Balacing/blob/main/nginx_.jpg%2BHAProxy_L4-balancing.conf]  
 (Конфигурационный файл nginx основной)[https://github.com/Svalker1989/Clusterization-Load_Balacing/blob/main/nginx_main.conf]  
-(Конфигурацияонный файл такой же как в З1)[https://github.com/Svalker1989/Clusterization-Load_Balacing/blob/main/haproxy_L4.cfg]  
+(Конфигурационный файл HAPRoxy такой же как в З1)[https://github.com/Svalker1989/Clusterization-Load_Balacing/blob/main/haproxy_L4.cfg]  
 (Скриншот с запросом картинки, который обрабатывается сервером nginx)[https://github.com/Svalker1989/Clusterization-Load_Balacing/blob/main/Z3_1.PNG]  
 (Скриншот без запроса картинки, который перенаправляется на HAProxy)[https://github.com/Svalker1989/Clusterization-Load_Balacing/blob/main/Z3_2.PNG]  
 ### Задание 4
