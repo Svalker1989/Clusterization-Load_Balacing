@@ -7,7 +7,9 @@
 * На проверку направьте конфигурационный файл haproxy, скриншоты, где видно перенаправление запросов на разные серверы при обращении к HAProxy.
 ### Решение
 (Конфигурационный файл HAProxy)[https://github.com/Svalker1989/Clusterization-Load_Balacing/blob/main/haproxy_L4.cfg]  
-![Запрос к HAProxy](https://github.com/Svalker1989/Clusterization-Load_Balacing/blob/main/Z1_1.PNG])  
+### Запрос к HAProxy
+![Запрос к HAProxy](https://github.com/Svalker1989/Clusterization-Load_Balacing/blob/main/Z1_1.PNG)
+### Часть лога сервера с получением запроса и перенаправлением на разные сервера
 ![Часть лога сервера с получением запроса и перенаправлением на разные сервера](https://github.com/Svalker1989/Clusterization-Load_Balacing/blob/main/Z1_2.PNG)  
 ### Задание 2
 * Запустите три simple python сервера на своей виртуальной машине на разных портах
